@@ -1,0 +1,22 @@
+
+==========================
+	About git 
+===========================
+
+# upload local repository  into your remote repo. 
+
+1. Create new repogitory in your git account 
+-> got to your local repo and open in terminal.
+2.git init
+3.git add .
+4.git commit -m "first commit"
+5.git remote add <link>
+6.git push origin <branch name>
+
+basic git 
+=====
+1.git add .
+2.git checkout -b "new-branch-name" (create new branch in local)
+3.git checkout "branch-name"
+4.git remote -v (check permission)
+5.git status (check git status)
